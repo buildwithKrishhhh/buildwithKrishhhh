@@ -62,35 +62,6 @@ My goal is to develop a strong combination of software engineering fundamentals 
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=buildwithKrishhhh&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildwithKrishhhh&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=buildwithKrishhhh&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=buildwithKrishhhh&theme=github-compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=buildwithKrishhhh&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-I'm currently working towards building and publishing projects that demonstrate my skills in software development, AI, and problem-solving.
-
-**More projects coming soon. Stay tuned!**
-
----
-
 ## 🎮 Beyond the Code
 
 When I'm not coding, you might find me:
